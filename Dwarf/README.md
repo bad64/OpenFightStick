@@ -1,6 +1,8 @@
 # D.W.A.R.F.
 ## Fightstick case for a (slightly) smaller than average build
 
+![3D Rendering of a Dorf](https://github.com/bad64/OpenFightStick/img/dwarf.png)
+
 ---
 
 This case is intended for a smaller sized build that still wishes to retain a lever. The case is barely larger than a A4 sheet at 32 x 20 centimeters.

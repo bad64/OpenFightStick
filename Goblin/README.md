@@ -1,6 +1,8 @@
 # G.O.B.L.I.N.
 ## Smashbox style case
 
+![A freshly escaped Snotling](https://github.com/bad64/OpenFightStick/img/goblin.png)
+
 ---
 
 This case is intended for a flat, Smashbox-styled case and custom PCB with Kailh Choc hotswappable switches.

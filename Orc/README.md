@@ -1,6 +1,8 @@
 # O.R.C.
 ## Fightstick case for a normal sized build
 
+![Waaaaagh !](https://github.com/bad64/OpenFightStick/img/orc.png)
+
 ---
 
 This case is intended for a decently roomy build.
