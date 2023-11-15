@@ -1,7 +1,7 @@
 # D.W.A.R.F.
 ## Fightstick case for a (slightly) smaller than average build
 
-![3D Rendering of a Dorf](https://github.com/bad64/OpenFightStick/img/dwarf.png)
+![3D Rendering of a Dorf](https://github.com/bad64/OpenFightStick/tree/main/img/dwarf.png)
 
 ---
 

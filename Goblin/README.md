@@ -1,7 +1,7 @@
 # G.O.B.L.I.N.
 ## Smashbox style case
 
-![A freshly escaped Snotling](https://github.com/bad64/OpenFightStick/img/goblin.png)
+![A freshly escaped Snotling](https://github.com/bad64/OpenFightStick/tree/main/img/goblin.png)
 
 ---
 
