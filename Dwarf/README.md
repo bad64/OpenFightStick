@@ -26,6 +26,20 @@ This case is intended for a smaller sized build that still wishes to retain a le
 - Body: I recommend PLA; Removing the supports from the options and Neutrik holes from PETG is very hard without power tools or an IDEX system and a roll of PVB. I have *big* doubts about TPU
   - I use brims due to the wall profile, 20% triangular infill
   
+Print this:
+ - Top Left: 1x
+ - Top Right: 1x
+ - Body Left: 1x
+ - Body Right: 1x
+ - Front/Back joints: 1x
+ - Bottom plates: 2x (they're the same plate just rotated 180°)
+ 
+ Orientation should be good from the get-go.
+  
 ## Building
 
-TODO
+- Assemble body (really if you ever did LEGO you should figure that one out fairly easily)
+- Add heat-set inserts to the existing holes
+- Screw on bottom plates
+- Affix arcade hardware to the top plates
+- Screw top plates onto the body

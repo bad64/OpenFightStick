@@ -23,7 +23,21 @@ This case is intended for a flat, Smashbox-styled case and custom PCB with Kailh
   - 30% grid infill with anywhere between 3 and 5 top/bottom layers. I recommend slicing the plates face down so they take on your build plate's texture
 - Buttons: Honestly anything that *has* infill should work. I used [these](https://www.thingiverse.com/thing:5368051) as a base (I don't have a Thingiverse account but I feel credit is due anyway; the author is more than welcome to get in touch if this isn't satisfactory)
 	- Use the pliers to squeeze in the pins if they don't fit
+- Option button pads: Anything will do, TPU probably feels nice to replicate the membrane buttons of yore
+
+Print every STL file once (except the button cap, you need 17 of it), orientation is already set up.
 
 ## Building
 
-TODO
+- Add heat-set inserts to the bottom parts
+- Glue bottom parts together for extra stability (optional)
+- Gently layer PCB on top
+- Place option button pads
+- Place top cover
+- Screw on top cover
+- Place caps onto switches (do this **BEFORE** putting them on the PCB, hotswap or not these are tight)
+
+## TODO
+
+- Publish the PCB files
+- PCB soldering guide ?
