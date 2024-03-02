@@ -21,11 +21,14 @@ This case is intended for a flat, Smashbox-styled case and custom PCB with Kailh
 ## Printing
 
 - Print everything with brims (or mouse ears if your slicer can do them; I have not managed to get the plates to stick with mouse ears alone)
+- Body: Tested in PLA, probably would be a cool aesthetic to use carbon fiber for added rigidity
+	- Infill is a bit whatever, I use Gyroid with 20%, but whatever floats your boat
 - Top & Bottom plates: Tested with PLA and PETG, as long as your filament has good stiffness it should work (this is my way to say "Please don't try TPU or LW-PLA/LW-ASA")
-  - 30% zigzag infill with anywhere between 3 and 5 top/bottom layers. I recommend slicing the plates face down so they take on your build plate's texture
-- Buttons: Honestly anything that *has* infill should work. I used [these](https://www.thingiverse.com/thing:5368051) as a base (I don't have a Thingiverse account but I feel credit is due anyway; the author is more than welcome to get in touch if this isn't satisfactory)
+	- 30% zigzag or gyroid infill with anywhere between 3 and 5 top/bottom layers. I recommend slicing the plates face down so they take on your build plate's texture
+- Buttons: Honestly anything that *has* infill should work. Recommend PETG over PLA if possible. TPU is kind of an acquired taste in terms of feeling
+	- I used [these](https://www.thingiverse.com/thing:5368051) as a base (I don't have a Thingiverse account but I feel credit is due anyway; the author is more than welcome to get in touch if this isn't satisfactory)
 
-Pick your right panel layout, then print 1 of everything.
+Pick your top panel layout, then print one of everything !
 
 ## Building
 
@@ -36,3 +39,7 @@ Pick your right panel layout, then print 1 of everything.
 - Place caps onto switches (do this **BEFORE** putting them on the PCB, hotswap or not these are tight)
 - Place bottom panel
 - Screw bottom panel to body
+
+## What's next
+
+- Assembly guide probably idk
