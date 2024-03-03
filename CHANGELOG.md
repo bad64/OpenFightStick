@@ -1,3 +1,8 @@
+03032024:
+- Changes to Gnome:
+	- Now separate from the Goblin
+	- Basically remade the entire model
+
 02032024:
 - Gnome has been merged into Goblin as its v4
 	- Gnome will become something else in the near future
