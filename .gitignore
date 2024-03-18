@@ -1,5 +1,7 @@
 *.blend1
 *.lnk
+*.stl
+*.STL
 OLD\ CASES/
 Hydra/
 Goblin/old
