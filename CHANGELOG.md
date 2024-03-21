@@ -1,3 +1,9 @@
+21032024:
+- Gnome:
+	- Added a version of the body for captive M3 nuts
+- Goblin:
+	- Added divots on the bottom plate to allow space for non-flush screws
+
 03032024:
 - Changes to Gnome:
 	- Now separate from the Goblin
