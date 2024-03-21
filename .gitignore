@@ -2,6 +2,9 @@
 *.lnk
 *.stl
 *.STL
+*.pdf
+*.3mf
+*.dxf*
 OLD\ CASES/
 Hydra/
 Goblin/old

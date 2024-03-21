@@ -1,4 +1,8 @@
 21032024:
+- General:
+	- Cleaned up Gnome and Goblin directories
+	- Reworked manuals to be a little more exhaustive
+	- Added refs to the OneBoard repo since it exists now
 - Gnome:
 	- Added a version of the body for captive M3 nuts
 - Goblin:

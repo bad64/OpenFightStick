@@ -11,15 +11,14 @@ This case is intended for a flat, Smashbox-styled case and custom PCB with Kailh
 
 - 4 M3 x 8 countersunk screws to attach the bottom plate to the body
 - 4 M3 x 8 button-head screws to attach the top plate to the body
-- 8 M3 heat-sink inserts
-- 5 through hole 6x6 tactile switches (height to taste, I like 12mm)
+- 8 M3 heat-sink inserts **OR** M3 nuts if you use that option
+- 5 through hole 6x6 tactile switches (height to taste, I like 9.5mm)
 - A bunch of Kailh Choc switches and corresponding hotswap sockets if you want them to be removable (big fan of Navy switches here)
-- A fine instance of a One Board (see PCB folder)
-- A laser cut acrylic plate, 3mm thick (TODO: add laser cutting files
+- A fine instance of a [One Board](https://github.com/bad64/OneBoard)
+- A laser cut acrylic plate, 3mm thick
 
 ## Printing
 
-- Print everything with brims (or mouse ears if your slicer can do them; I have not managed to get the plates to stick with mouse ears alone)
 - Body: Tested in PLA, probably would be a cool aesthetic to use carbon fiber for added rigidity
 	- Infill is a bit whatever, I use Gyroid with 20%, but whatever floats your boat
 - Bottom plate: Tested with PLA and PETG, as long as your filament has good stiffness it should work (this is my way to say "Please don't try TPU or LW-PLA/LW-ASA")
@@ -36,6 +35,7 @@ Pick your top panel layout, then print one of everything !
 - (Optional) Add artwork
 - Place acrylic panel and screw it in place
 - Place caps onto switches (do this **BEFORE** putting them on the PCB, hotswap or not these are tight)
+- Seat switches inside their assigned slots
 - Place bottom panel and screw it in place
 
 ## What's next
