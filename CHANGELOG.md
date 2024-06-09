@@ -1,3 +1,8 @@
+09062024:
+- Retired Dwarf as a mini case
+- Reworked Orc from the ground up to be a midsize unibody
+
+
 21032024:
 - General:
 	- Cleaned up Gnome and Goblin directories

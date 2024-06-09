@@ -5,6 +5,7 @@
 *.pdf
 *.3mf
 *.dxf*
-OLD\ CASES/
-Hydra/
+Gnome/Special
+Goblin/Special
 Goblin/old
+Ork/nocopy/*
