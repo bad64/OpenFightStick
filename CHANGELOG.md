@@ -1,3 +1,6 @@
+11062024:
+- Started work on the Chimaera
+
 09062024:
 - Retired Dwarf as a mini case
 - Reworked Orc from the ground up to be a midsize unibody

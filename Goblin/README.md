@@ -1,9 +1,7 @@
 # G.O.B.L.I.N.
 ## Smashbox style modular case
 
-![A freshly escaped Snotling](../img/goblin_all.png)
-![A mutant Snotling](../img/goblin_split.png)
-![And another one](../img/goblin_wasd.png)
+![A freshly escaped Snotling](../img/goblin.png)
 
 ---
 
