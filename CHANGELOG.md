@@ -1,3 +1,13 @@
+19062024:
+- General:
+	- Redid all the visuals
+- Gnome and Goblin:
+	- Adjusted overall thickness to 21mm to allow the buttons to sink in fully into the panel, accounting for cap printing tolerances
+- Chimera:
+	- Added
+- Or[c|k]:
+	- Renamed to Ork for no reason in particular
+
 11062024:
 - Started work on the Chimaera
 
