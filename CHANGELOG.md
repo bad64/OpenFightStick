@@ -4,7 +4,9 @@
 - Gnome and Goblin:
 	- Adjusted overall thickness to 21mm to allow the buttons to sink in fully into the panel, accounting for cap printing tolerances
 - Chimera:
-	- Added
+	- Fixed missing geometry on top plates
+	- Added a plate for an American lever
+	- Made a recess in the bottom left plate just to make sure there won't ever be any clearance issues with any lever
 - Or[c|k]:
 	- Renamed to Ork for no reason in particular
 
