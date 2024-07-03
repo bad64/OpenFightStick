@@ -1,3 +1,11 @@
+03072024:
+- General:
+	- Added an "Acknowledgement" section to the README to give proper recognition to whomever I got inspiration from
+- Chimera:
+	- Body magnets are now double-stacked to improve adhesion
+	- Plate magnets are now exposed (but since the body magnets aren't there is no actual magnet-on-magnet contact,, preventing damage)
+	- WASD plate has been reworked to print slightly faster and use slightly less filament
+
 19062024:
 - General:
 	- Redid all the visuals

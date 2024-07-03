@@ -73,3 +73,8 @@ Use the countersunk screws to attach the bottom panel to the body. You may need 
 
 - 220mm model cut up and ready to print
 - Hitbox top panel
+
+## Acknowledgements
+
+- [Buttercade](https://www.etsy.com/shop/BUTTERCADE) for the Surround and Support project
+- [Junk Food Arcades](https://junkfoodarcades.com) for the Snack Box v2, which genuinely coincidentally happen to share a lot of general shapes with my projects)
