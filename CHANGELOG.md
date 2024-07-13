@@ -1,3 +1,10 @@
+13072024:
+- General:
+	- Redid the models for the Eurostick and JLF(/JLX/archetypal Japanese lever of the week)
+	- Redid the renders for the Ork and Chimera
+- Ork:
+	- Now has a completely separate 220x220mm Blender file
+
 03072024:
 - General:
 	- Added an "Acknowledgement" section to the README to give proper recognition to whomever I got inspiration from

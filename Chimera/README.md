@@ -5,7 +5,8 @@
 
 ---
 
-This case is intended for a complete build that sacrifices portability for versatility.
+This case is intended for a complete build that sacrifices (a bit of) portability for versatility.
+Unlike other models, all the STL files should fit on a standard 220x220mm build plate from the get go (it's a bit of a tight fit though but it should be okay so long as you don't need a brim or raft)
 
 ## Materials needed
 
@@ -17,10 +18,12 @@ In general:
 	- Not an endorsement, but I use PolyMaker's PolyTerra PLA line for my builds (matte rules !). You can make the contrast even more striking by having one filament matte and the other glossy
 - A Brook board of your choosing (or GP2040 board if you can grab one where you live, even better)
 - Cables and wires to connect the above to the rest of the hardware (usually a USB B to A and a wire harness)
+	- **The 20pin Brook harness is mandatory if you mount the board to the underside of the top right panel.** If you don't you can use the 20 pin terminals just fine, otherwise you may need a riser
 - One Neutrik USB A to B connector
 - 2 M3x40 screws and matching nuts to mount the Neutrik connector (head to taste; I like machine head for that purpose)
 - 5 24mm arcade buttons for START, SELECT and HOME, L3 and R3
 - (OPTIONAL) Four extra nuts and button or machine head screws to mount the Brook board to the top plate (you don't *need* to but it's always a plus)
+- Glue, or if you're extra paranoid, two part epoxy
 - (OPTIONAL) 20mm rocker switches (one SPST for the tournament lock, one SPDT for the LS/DP/RS switch)
 
 For the joystick based top left halves **except the American one**:
@@ -51,19 +54,23 @@ For the top right halves:
 
 ## Assembly
 
-Insert the magnets into your top plates. Use all-purpose pliers if you need to (add some cloth between the jaws and plate if you're afraid of damaging them)
+> [!NOTE]
+> This is how *I* would proceed. At some point if you've made it this far I would assume you know your own DEX stat better than I do and can opt for a different build order.
 
-Screw the mainboard to the underside of the top right panel half (with or without the spacer). Make sure to orient the board so that the USB-B port is facing towards the center.
+Assemble the frame; Apply your adhesive of choice, preferably using a thin modeling brush, to the tongues on the left and right side brackets. Insert them into the front and back joints. This is a very tight fit and depending on your printer's level of tuning, you might need to apply some force.
 
-You may want to start on wiring some of the electronics now. Screw in the buttons (and lever), then attach the wire harness. Refer to your board's manual for the correct pinout. Despite the size it's actually a pretty tight fit, so bend and twist pins and wires as you need.
+Open up the Neutrik connector and reverse it so that the USB-B connector faces outside. Mount the Neutrik connector to the frame. Use a wrench or pliers to tighten the nuts.
 
-Add the five option buttons to the right half of the body.
+Screw the board to the top right panel. Screw the buttons into the right panel. Screw the option buttons to the right side of the frame, and check that they are not overlapping with the main buttons (they *shouldn't*, but even with my trove of hardware I cannot test every possible case).
 
-Connect the option buttons to the rest of the wire harness.
+Insert the magnets into your top plates. Use all-purpose pliers if you need to (add some cloth between the jaws and plate if you're afraid of damaging anything)
 
-Connect the board to the Neutrik via a USB B to A cable.
+> [!TIP]
+> Depending on its length you may want to add the USB cable now so that it sits out of the way from the regular wiring. It mostly depends on which side you tend to open your stick by and how often; I go through the bottom so having the USB cable under the rest of the harness helps me, but to each their own !
 
-Use the countersunk screws to attach the bottom panel to the body. You may need to apply some moderate force to compress the wires inside the case. Aaaaaand you're done, congratulations ! 
+Connect the option buttons first by snaking them through the top panel buttons. It's a really tight fit, unfortunately, but it's pretty feasible IMO. Then wire up the ground chain for the main buttons, kicks, punches, and finally whichever directional method you choose.
+
+Screw in the bottom panels. You might need to compress the wiring a little bit.
 
 ## Acknowledgements
 
