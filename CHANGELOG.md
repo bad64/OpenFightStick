@@ -1,3 +1,8 @@
+23072024:
+- General:
+	- Widened holes on Ork and Chimera to accomodate Crown buttons
+	- Published STL files
+
 13072024:
 - General:
 	- Redid the models for the Eurostick and JLF(/JLX/archetypal Japanese lever of the week)

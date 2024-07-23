@@ -1,11 +1,10 @@
 *.blend1
 *.lnk
-*.stl
-*.STL
 *.pdf
 *.3mf
 *.dxf*
 Gnome/Special
 Goblin/Special
 Goblin/old
-Ork/nocopy/*
+Ork/*/nocopy/*
+nocopy/*
