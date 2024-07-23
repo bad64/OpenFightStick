@@ -2,6 +2,8 @@
 - General:
 	- Widened holes on Ork and Chimera to accomodate Crown buttons
 	- Published STL files
+- Chimera:
+	- S2P top right panel now has grooves for snap-in buttons
 
 13072024:
 - General:
