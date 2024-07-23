@@ -4,6 +4,7 @@
 	- Published STL files
 - Chimera:
 	- S2P top right panel now has grooves for snap-in buttons
+	- Front right only takes two option buttons instead of three to alleviate routing issues
 
 13072024:
 - General:
