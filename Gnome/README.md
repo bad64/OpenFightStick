@@ -1,17 +1,21 @@
 # G.N.O.M.E.
 ## Artwork-friendly Smashbox-style modular case
 
-![For Gnomeregan !](../img/gnome.png)
+![I was rendered in Cycles and took like an hour... but at least I'm not EEVEE](../img/gnome.png)
 
 ---
 
 This case is intended for a flat, Smashbox-styled case and custom PCB with Kailh Choc hotswappable switches. Think of it as an alternative to/fork of the Goblin, rather than a separate product entirely.
 
+If you are wondering what that unpopulated hole in the center is, well...
+
+![My Blender-Fu isn't strong enough](../img/if_i_had_one.png)
+
 ## Materials needed
 
 - 4 M3 x 8 countersunk screws to attach the bottom plate to the body
-- 4 M3 x 8 button-head screws to attach the top plate to the body
-- 8 M3 heat-sink inserts **OR** M3 nuts if you use that option
+- 4 M3 x 8 button or machine head screws to attach the top plate to the body
+- 8 5.5 x 2mm M3 square nuts if you use that option
 - 5 through hole 6x6 tactile switches (height to taste, I like 9.5mm)
 - A bunch of Kailh Choc switches and corresponding hotswap sockets if you want them to be removable (big fan of Navy switches here)
 - A fine instance of a [One Board](https://github.com/bad64/OneBoard)

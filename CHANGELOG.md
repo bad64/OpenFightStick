@@ -1,3 +1,13 @@
+04082024:
+- Gnome:
+	- Reworked almost the entire top layer geometry
+	- Added 2 extra millimeters to the body to better align with the button caps
+	- Swapped the board to the next generation (prototype)
+	- Added Choc stand-ins and their caps
+- Chimera:
+	- Changed color to blue to match the filament I'm gonna use (purely aesthetic)
+	- WASD plate has been made thicker again
+
 23072024:
 - General:
 	- Widened holes on Ork and Chimera to accomodate Crown buttons
