@@ -3,8 +3,6 @@
 *.pdf
 *.3mf
 *.dxf*
-Gnome/Special
-Goblin/Special
-Goblin/old
+Goblin/nocopy
 Ork/*/nocopy/*
 nocopy/*
