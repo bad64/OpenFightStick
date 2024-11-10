@@ -4,7 +4,7 @@
 ## Materials needed
 
 In general:
-- 16 5.5x2mm square nuts
+- 16 M3 heat-set inserts
 - Half of that number M3x10 button-head screws (I recommend hex screws, Phillips sucks)
 - And the other half M3x10 countersunk screws
 - Filament for the body and plates
@@ -15,9 +15,8 @@ In general:
 - One Neutrik USB A to B connector
 - 2 M3x40 screws and matching nuts to mount the Neutrik connector (head to taste; I like machine head for their look)
 - 3 24mm arcade buttons for START, SELECT, and HOME
-- (OPTIONAL) 2 more 24mm buttons if you use L3 and R3, **OR** 24mm button covers if you do not
 - Glue, or if you're really paranoid, two part epoxy
-- (OPTIONAL) Four extra nuts and button or machine head screws to mount the Brook board to the top plate (you don't *need* to but it's always a plus)
+- (OPTIONAL) Four 5.5x2mm square nuts and button or machine head screws to mount the Brook board to the top plate (you don't *need* to but it's always a plus)
 
 For the Sega 2P builds:
 - One lever with Japanese mounting points
@@ -25,7 +24,7 @@ For the Sega 2P builds:
 	- Crown levers with the -FJ suffix will fit
 	- All (known) Fanta levers will fit
 	- **American levers/Eurosticks will not fit**
-- Four additional square nuts to mount the lever to
+- Four 5.5x2mm square nuts to mount the lever to
 - Four button or machine head M3 screws (any length between 3 and 6mm *should* work. Use spacers if needed, just be careful to not screw through the panel)
 - The appropriate top plate for your lever (Pick the 35mm hole if you have a full collar Korean lever, otherwise the 24mm one)
 - 8 **screw-in** 30mm buttons
@@ -39,19 +38,16 @@ For the Hitbox leverless build:
 
 ## Printing
 
-Print all the body files, adding pauses (or filament changes, it doesn't matter so long as it stops printing and parks the head out of the way) *at the start of the layer that will cover the nut holes*. There are a lot of Youtube videos about embedding nuts or magnets, both use the same process. **Remember to add support blockers to all the screw holes !!**  
-Depending on your exact build plate size you can definitely fit several parts at once to save time:
+Print all the body files, depending on your exact build plate size you can definitely fit several parts at once to save time:
 ![I was taught by a Tetris champion](../../img/fit.PNG)
 
-Since they all share the same height at which you should need to pause, you only really need two pauses total.
-
-Print the bottom plate twice, then whichever set of top plates you want. Use the same pause and support blockers method on the lever mounting holes if you plan on using one.
+Print the bottom plate twice, then whichever set of top plates you want. Add support blockers and filament changes/pauses (it doesn't really matter so long as the print head goes out of the way) on the lever mounting holes **at the start of the layer which will cover the nuts** if you plan on using one.
 
 For the record, both Sega 2P top right plates are identical, but **that isn't true for the leverless builds**. Exercise caution !
 
 If you do not wish to mount your board directly to the top right plate, print it as-is, otherwise again you will need to add a pause and support blockers.
 
-**OPTIONAL:** Print the Surround and Support pieces for the Neutrik that you can find in [TODO: Link to be published]
+**OPTIONAL:** Print the Surround and Support pieces for the Neutrik that you can find in the root Common folder.
 
 ## Assembly
 
@@ -59,6 +55,8 @@ If you do not wish to mount your board directly to the top right plate, print it
 > This is how *I* would proceed. At some point if you've made it this far I would assume you know your own DEX stat better than I do and can opt for a different build order.
 
 Assemble the frame; Apply your adhesive of choice, preferably using a thin modeling brush, to the tongues on the left and right side brackets. Insert them into the front and back joints. This is a very tight fit and depending on your printer's level of tuning, you might need to apply some force.
+
+Heat up your soldering iron, and add the heat-set inserts. Let them cool down before attempting to screw anything in to let the plastic set.
 
 Open up the Neutrik connector and reverse it so that the USB-B connector faces outside. Mount the Neutrik connector to the frame. Use a wrench or pliers to tighten the nuts.
 

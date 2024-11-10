@@ -4,7 +4,7 @@
 ## Materials needed
 
 In general:
-- 12 5.5x2mm square nuts
+- 12 M3 heat-set inserts
 - Half of that number M3x10 button-head screws (I recommend hex screws, Phillips sucks)
 - And the other half M3x10 countersunk screws
 - Filament for the body and plates
@@ -15,8 +15,7 @@ In general:
 - One Neutrik USB A to B connector
 - 2 M3x40 screws and matching nuts to mount the Neutrik connector (head to taste; I like machine head for their look)
 - 3 24mm arcade buttons for START, SELECT, and HOME
-- (OPTIONAL) 2 more 24mm buttons if you use L3 and R3, **OR** 24mm button covers if you do not
-- (OPTIONAL) Four extra nuts and button or machine head screws to mount the Brook board to the top plate (you don't *need* to but it's always a plus)
+- (OPTIONAL) Four 5.5x2mm square nuts and button or machine head screws to mount the Brook board to the top plate (you don't *need* to but it's always a plus)
 
 For the Sega 2P builds:
 - One lever with Japanese mounting points
@@ -38,18 +37,18 @@ For the Hitbox leverless build:
 
 ## Printing
 
-Print body file, adding pauses (or filament changes, it doesn't matter so long as it stops printing and parks the head out of the way) *at the start of the layer that will cover the nut holes*. There are a lot of Youtube videos about embedding nuts or magnets, both use the same process. **Remember to add support blockers to all the screw holes !!**  
+Print the body first as one piece. Orientation doesn't really matter so long as you use the right kind of supports for your filament.
 
-Print the bottom plate, then whichever top plate you want. Use the same pause and support blockers method on the lever mounting holes if you plan on using one.
+Print the bottom plate, then whichever top plate you want. If you plan on using a lever or mounting your board to the top plate, add support blockers to the nut holes and filament changes/pauses (it doesn't matter as long as the print head moves out of the way) **at the start of the layer that will cover the nuts**.
 
-If you do not wish to mount your board directly to the top plate, print it as-is, otherwise again you will need to add a pause and support blockers.
-
-**OPTIONAL:** Print the Surround and Support pieces for the Neutrik that you can find in [TODO: Link to be published]
+**OPTIONAL:** Print the Surround and Support pieces for the Neutrik that you can find in the root Common folder.
 
 ## Assembly
 
 > [!NOTE]
 > This is how *I* would proceed. At some point if you've made it this far I would assume you know your own DEX stat better than I do and can opt for a different build order.
+
+Use a soldering iron to add heat-set inserts to the holes. Let them cool down before attempting to screw anything in them so the plastic sets in.
 
 Open up the Neutrik connector and reverse it so that the USB-B connector faces outside. Mount the Neutrik connector to the frame. Use a wrench or pliers to tighten the nuts.
 
