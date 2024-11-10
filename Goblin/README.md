@@ -5,7 +5,11 @@
 
 ---
 
-This case is intended for a flat, Smashbox-style case and custom PCB with *either* Cherry MX style or Kailh Choc style switches.
+This case is intended for a flat, Smashbox-style case and custom PCB with *either* Cherry MX style or Kailh Choc *v1* style switches.
+
+> [!IMPORTANT]
+> This build cannot, to the best of my knowledge and skill, be safely split to fit on a standard 220x220mm build plate.
+> You **will** need at least a 300x300mm build plate.
 
 ## Materials needed
 
@@ -16,7 +20,7 @@ This case is intended for a flat, Smashbox-style case and custom PCB with *eithe
 - A bunch of *either* MX style or Kailh Choc switches and corresponding hotswap sockets if you want them to be removable (big fan of Kailh Speed Navy switches here)
 	- You *can* mix and match them and have both sockets soldered at the same time; why would you though ?
 - A [board]()
-- A [laser cut acrylic plate](), 3mm thick
+- A [laser cut acrylic plate](Cut\ files), 3mm thick
 
 ## Printing
 
@@ -41,3 +45,4 @@ This case is intended for a flat, Smashbox-style case and custom PCB with *eithe
 - Place caps onto switches (do this **BEFORE** putting them on the PCB)
 - Seat switches inside their assigned slots (hold the hotswaps against the board while pushing the switches in)
 - Place bottom panel and screw it in place
+- Plug your board in and install the firmware

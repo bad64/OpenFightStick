@@ -1,3 +1,12 @@
+10112024:
+- Gnome/Goblin: (actual changes dated from November 7th; forgot to update this file)
+	- Merged the projects (under the Goblin name) as the distinction is pretty much unneeded in the end
+	- Reworked the entire case to use Cherry MX style switches && heat-set inserts
+- Ork:
+	- Changed all body holes to use heat-set inserts instead of captive nuts (This change has the goal of removing the need for me to be near the printer so I can print while at work)
+- README.md:
+	- Updated hardware list for heat-set insert usage
+
 04082024:
 - Gnome:
 	- Reworked almost the entire top layer geometry

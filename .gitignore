@@ -3,6 +3,5 @@
 *.pdf
 *.3mf
 *.dxf*
-Goblin/nocopy
-Ork/*/nocopy/*
+*/nocopy
 nocopy/*
